@@ -1,0 +1,9 @@
+body,
+html {
+  margin: 10px;
+  background-color: #ff0;
+}
+#title {
+  color: #008000;
+  font-weight: 900;
+}

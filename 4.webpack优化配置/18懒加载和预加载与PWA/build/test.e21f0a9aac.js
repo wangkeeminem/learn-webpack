@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[43],{4:function(t,n,o){function e(){console.log("hello test 我更idsd想你了 dsad 可以的")}function s(){console.log("我是test2")}o.r(n),o.d(n,{test1:function(){return e},test2:function(){return s}}),console.log("hahahahha"),console.log("我是test被加载了")}}]);

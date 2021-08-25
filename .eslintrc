@@ -1,0 +1,13 @@
+{
+  // "extends": "airbnb-base",
+  "parser": "babel-eslint",
+  "settings": {
+    // "webpack": {
+    //   "config": "config/webpack.config.js" // 这是你设置alias的配置文件路径
+    // }
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  }
+}

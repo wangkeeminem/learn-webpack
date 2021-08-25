@@ -1,0 +1,1 @@
+!function(){"use strict";document.getElementById("btn1").onclick=function(o){o.target.style.color="yellow"},console.log("我是js我被dsads加fdfds载了"),console.log("我又变了")}();
